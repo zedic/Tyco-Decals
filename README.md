@@ -5,3 +5,4 @@ Tyco / Taiyo R/C doesn't exist anymore so there is no way to get decals to repla
 
 The goal is to recreate these decals in a public space so enthusiast can restore their vintage cars.
 
+I included the GIMP files, and Silhouette Studio files.
